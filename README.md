@@ -1,5 +1,5 @@
-# CarteWeb
-Ceci une carte web fictive des secteurs d'activités en France métropolitaine par région. 
+# Carte Web
+Ceci une carte web des secteurs d'activités en France métropolitaine par région. 
 
 # Cartographie des secteurs d'activités 
 
